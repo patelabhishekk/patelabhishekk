@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patelabhishekk" alt="patelabhishekk" /></a> </p>
 
-- 🔭 I’m currently working on Machine learning **Fake news prediction using machine learning**
+- 🔭 I’m currently working on some cool projects
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **IT Automation using Python**
 
-- 🤝 I’m looking for help with AI/ML **AI/ML in Medical Field**
+- 🤝 I’m looking for help with AI/ML & learn about startup.
 
-- 💬 Ask me about **Python , Machine Learning and Java**
+- 💬 Ask me about **Python , MYSQL, Machine Learning and Java**
 
 - 📫 How to reach me **abhishekpatel.16161@gmail.com**
 
